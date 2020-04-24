@@ -12,8 +12,8 @@ Node.js, Express.
 
 Run from your terminal:
 
-    git clone http://datawarehouse:8080/tfs/DefaultCollection/_git/FAD-API
-    cd FAD-API
+    git clone https://github.com/vivekaswal/infoundation-api.git
+    cd infoundation-api
     npm i
     npm run dev
     
